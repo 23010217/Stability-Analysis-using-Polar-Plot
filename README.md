@@ -41,7 +41,8 @@ else
 end
 ```
 ## Output:
-<img width="1257" height="530" alt="image" src="https://github.com/user-attachments/assets/9168c78c-3675-45dd-94ba-cc4d7ef20a6a" />
+![WhatsApp Image 2025-11-29 at 13 57 45_531a9057](https://github.com/user-attachments/assets/acf3d62c-c2bf-47e4-ac29-4bb672ba168e)
+
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
